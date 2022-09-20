@@ -1,0 +1,60 @@
+#logo {
+    width:200px;
+    height:100px;
+}
+.image {
+    display:flex;
+    justify-content: center;
+    padding-bottom: 40px;
+}
+.container {
+    border:2px solid lightgray;
+    height:100%;
+    width:350px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 450px;
+}
+#signin{
+    padding-right: 240px;
+}
+#email{
+    padding-right: 140px;
+}
+.searchbar {
+    width: 300px;
+    margin: 15px;
+}
+#needhelp{
+    padding-right: 200px;
+}
+.forgotpassword{
+     text-decoration: none;
+}
+.continue {
+    background-color: rgb(255, 212, 132);
+    border:1px solid black;
+    width: 300px;
+    height: 25px;
+}
+.container2{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    /* margin-left: 250px; */
+    margin: 15px;
+}
+.bottom {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+a {
+    text-decoration: none;
+}
+#amazonbutton {
+    width:300px;
+}
